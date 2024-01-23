@@ -9,3 +9,8 @@
 
 ## Commit 
 * `git commit -m "<commit message>"`
+
+## Branch
+* Use `git branch <new-branch-name>` to create a new branch
+* Use `git checkout <new-branch-name>` to go to a different branch
+* Use `git checkout -b <new-branch-name>` to create a new branch and switch to it immediately
